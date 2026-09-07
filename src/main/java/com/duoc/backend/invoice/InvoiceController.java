@@ -1,4 +1,4 @@
-package com.duoc.backend.Invoice;
+package com.duoc.backend.invoice;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;

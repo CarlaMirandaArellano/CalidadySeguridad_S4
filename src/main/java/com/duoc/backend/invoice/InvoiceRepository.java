@@ -1,4 +1,4 @@
-package com.duoc.backend.Invoice;
+package com.duoc.backend.invoice;
 
 import org.springframework.data.repository.CrudRepository;
 

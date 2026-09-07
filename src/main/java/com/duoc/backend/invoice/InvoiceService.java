@@ -1,9 +1,9 @@
-package com.duoc.backend.Invoice;
+package com.duoc.backend.invoice;
 
-import com.duoc.backend.Care.Care;
-import com.duoc.backend.Care.CareRepository;
-import com.duoc.backend.Medication.Medication;
-import com.duoc.backend.Medication.MedicationRepository;
+import com.duoc.backend.care.Care;
+import com.duoc.backend.care.CareRepository;
+import com.duoc.backend.medication.Medication;
+import com.duoc.backend.medication.MedicationRepository;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

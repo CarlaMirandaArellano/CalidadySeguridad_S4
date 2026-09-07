@@ -1,4 +1,4 @@
-package com.duoc.backend.Medication;
+package com.duoc.backend.medication;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;

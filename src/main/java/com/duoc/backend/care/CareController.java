@@ -1,4 +1,4 @@
-package com.duoc.backend.Care;
+package com.duoc.backend.care;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;

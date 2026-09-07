@@ -1,7 +1,7 @@
-package com.duoc.backend.Invoice;
+package com.duoc.backend.invoice;
 
-import com.duoc.backend.Care.Care;
-import com.duoc.backend.Medication.Medication;
+import com.duoc.backend.care.Care;
+import com.duoc.backend.medication.Medication;
 
 import jakarta.persistence.*;
 import java.time.LocalDate;
